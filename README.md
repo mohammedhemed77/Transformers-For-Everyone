@@ -1,4 +1,5 @@
 # Transformers-For-Everyone
 
-<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/13b5f4a8-f430-41c6-b64f-a74e65c92190" />
+<img width="400" height="400" alt="logo_modest" src="https://github.com/user-attachments/assets/52fd4b6d-b609-4ebd-a559-81b9ca009d64" />
+
 
